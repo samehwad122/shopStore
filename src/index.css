@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif !important
+}
+.Navbar .navbar{
+    position: relative;
+    height: 70px;
+}
+
+.Navbar .navbar img{
+    position: absolute;
+    left: 30px ;
+width: 71px !important;
+}
